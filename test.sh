@@ -12,9 +12,9 @@ echo "IMPORT_STATUS=${IMPORT_STATUS}"
 
 if [ "${IMPORT_STATUS}" = "success" ]
 then
-echo "SUCCESS"
+echo "SUCCESS POSTIMPORT SCRIPT"
 else
-echo "FAILURE"
+echo "FAILURE POSTIMPORT SCRIPT"
 fi
 
 echo
