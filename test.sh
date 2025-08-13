@@ -12,7 +12,7 @@ echo "IMPORT_STATUS=${IMPORT_STATUS}"
 
 if [ "${IMPORT_STATUS}" = "success" ]
 then
-echo "SUCCESS POSTIMPORT SCRIPT"
+echo "SUCCESS POSTIMPORT SCRIPT edit for new hash"
 else
 echo "FAILURE POSTIMPORT SCRIPT"
 fi
