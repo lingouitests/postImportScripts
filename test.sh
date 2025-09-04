@@ -17,5 +17,5 @@ else
 echo "FAILURE POSTIMPORT SCRIPT"
 fi
 
-echo
+echo THIS IS A POST IMPORT SCRIPT
 echo "============================================================"
